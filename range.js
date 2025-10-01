@@ -7,4 +7,4 @@ else if ( input >=50){
 }
 else {
     console.log("not valid")
-}
+}]`xx`
